@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am Rakavi, a passionate web developer who enjoys prototyping, designing and developing.
+As someone with a strong foundation in Java programming, HTML, CSS, JavaScript, React.js I'm always excited to explore new technologies and contribute to projects. With problem-solving skills I have great confidence in tackling complex challenges and finding innovative solutions. 
 <!--
 **rakaviprem/Rakaviprem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
